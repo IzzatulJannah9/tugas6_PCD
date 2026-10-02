@@ -4,8 +4,6 @@ Pipeline klasik (tanpa deep learning): **crop ROI → grayscale → thresholding
 
 Data: 9 varian citra satu ijazah (high-quality, low-contrast, blurred, high-noise, low-res, faded, color-shift, JPEG artifact, combined degradation) dari `IJAZAH_PCD.pdf`.
 
-> **Catatan tentang "kepala sekolah"**: ijazah ini dari universitas, jadi padanannya adalah **Rektor** (kepala institusi). Program juga menguji tanda tangan **Dekan** dan **pemilik ijazah**.
-
 ## Struktur
 
 ```
