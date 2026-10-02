@@ -1,0 +1,4 @@
+opencv-python>=4.8
+numpy
+matplotlib
+pymupdf  # opsional (hanya untuk extract_from_pdf.py)
